@@ -22,4 +22,6 @@ Tools used: Python, Logistic Regression, Random Forest, K Nearest Neighbors
 ### Calculating Customer Lifetime Value
 Predicted top customers in terms of both expected total purchases and expected total purchase amounts given historical transactional data.  Projections were calculated using frequency and recency of customer transactions.  
   
-Tools used: Python, BG/NBD Model, Gamma-Gamma Model
+Tools used: Python, BG/NBD Model, Gamma-Gamma Model  
+
+[Notebook](https://github.com/xzachx/Customer_Lifetime_Value/blob/master/Customer%20Lifetime%20Value.ipynb) \| [Github Repository](https://github.com/xzachx/Customer_Lifetime_Value)
