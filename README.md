@@ -1,6 +1,6 @@
 # Zach Brown \| Data Scientist \| Boston, MA
 
-## End to End Projects
+## Projects
 ---
 
 ### Kaggle Competition - Titanic: Machine Learning from Disaster
