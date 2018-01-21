@@ -1,4 +1,4 @@
-# Zach Brown
+# Zach Brown \| Data Scientist \| Boston, MA
 
 ## End to End Projects
 ---
