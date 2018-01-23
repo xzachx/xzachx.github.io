@@ -31,4 +31,13 @@ Attempted to determine optimal times to buy and sell futures contracts for Tesla
 
 #### Tools Used: Python, Time Series Analysis, Google Finance API  
 
-[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study/ZBrown_Unit4CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study)
+[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study/ZBrown_Unit4CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study)  
+
+---  
+
+## Cleaning Road Race Data  
+Cleaned and formatted historical race results data scraped from the Cherry Blosson Ten Mile Road Race website.  
+
+#### Tools Used: R, Data Cleaning  
+
+[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study/ZBrown_Unit8CaseStudy.Rmd) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
