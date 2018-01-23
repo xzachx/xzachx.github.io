@@ -23,3 +23,12 @@ Predicted top customers in terms of both expected total purchases and expected t
 #### Tools used: Python, BG/NBD Model, Gamma-Gamma Model  
 
 [Notebook](https://github.com/xzachx/Customer_Lifetime_Value/blob/master/Customer%20Lifetime%20Value.ipynb) \| [Github Repository](https://github.com/xzachx/Customer_Lifetime_Value)  
+
+---  
+
+## Future Contract Rolling  
+Attempted to determine the optimal time to buy and sell futures contracts for Tesla stock using future contract rolling.  
+
+#### Tools Used: Python, Time Series Analysis, Google Finance API  
+
+[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study/ZBrown_Unit4CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study)
