@@ -44,5 +44,5 @@ Cleaned and formatted historical race results data in the form of text files scr
  
  ---  
    
- # Contact  
- [Email](mailto:xzachx@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/zachbrown1218/) \| [Github](https://github.com/xzachx)
+# Contact  
+[Email](mailto:xzachx@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/zachbrown1218/) \| [Github](https://github.com/xzachx)
