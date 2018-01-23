@@ -36,7 +36,7 @@ Attempted to determine optimal times to buy and sell futures contracts for Tesla
 ---  
 
 ## Cleaning Road Race Data  
-Cleaned and formatted historical race results data scraped from the Cherry Blosson Ten Mile Road Race website.  
+Cleaned and formatted historical race results data in the form of text files scraped from the Cherry Blosson Ten Mile Road Race website.  
 
 #### Tools Used: R, Data Cleaning  
 
