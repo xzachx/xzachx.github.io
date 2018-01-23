@@ -43,6 +43,6 @@ Cleaned and formatted historical race results data in the form of text files scr
 [Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study/ZBrown_Unit8CaseStudy.Rmd) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
  
  ---  
- 
+   
  # Contact  
  [Email](mailto:xzachx@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/zachbrown1218/) \| [Github](https://github.com/xzachx)
