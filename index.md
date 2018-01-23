@@ -27,7 +27,7 @@ Predicted top customers in terms of both expected total purchases and expected t
 ---  
 
 ## Future Contract Rolling  
-Attempted to determine the optimal time to buy and sell futures contracts for Tesla stock using future contract rolling.  
+Attempted to determine optimal times to buy and sell futures contracts for Tesla stock using future contract rolling.  Data was gathered using the Google Finance API.
 
 #### Tools Used: Python, Time Series Analysis, Google Finance API  
 
