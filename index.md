@@ -40,7 +40,7 @@ Cleaned and formatted historical race results data in the form of text files scr
 
 #### Tools Used: R, Data Cleaning  
 
-[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study/ZBrown_Unit8CaseStudy.Rmd) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
+[Notebook](http://rpubs.com/xzachx/351788) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
  
 ---  
    
