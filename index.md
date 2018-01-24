@@ -35,6 +35,15 @@ Predicted top customers in terms of both expected total purchases and expected t
 
 ---  
 
+## Cleaning Road Race Data  
+Cleaned and formatted historical race results data in the form of text files scraped from the Cherry Blosson Ten Mile Road Race website.  
+
+#### Tools Used: R, Data Cleaning  
+
+[Notebook](http://rpubs.com/xzachx/351788) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
+ 
+---  
+
 ## Future Contract Rolling  
 Attempted to determine optimal times to buy and sell futures contracts for Tesla stock using future contract rolling.  Data was gathered using the Google Finance API.
 
@@ -44,14 +53,6 @@ Attempted to determine optimal times to buy and sell futures contracts for Tesla
 
 ---  
 
-## Cleaning Road Race Data  
-Cleaned and formatted historical race results data in the form of text files scraped from the Cherry Blosson Ten Mile Road Race website.  
-
-#### Tools Used: R, Data Cleaning  
-
-[Notebook](http://rpubs.com/xzachx/351788) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%208%20Case%20Study)  
- 
----  
    
 # Contact  
 [Email](mailto:xzachx@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/zachbrown1218/) \| [Github](https://github.com/xzachx)
