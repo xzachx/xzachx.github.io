@@ -50,6 +50,15 @@ Attempted to determine optimal times to buy and sell futures contracts for Tesla
 #### Tools Used: Python, Time Series Analysis, Google Finance API  
 
 [Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study/ZBrown_Unit4CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%204%20Case%20Study)  
+ 
+---  
+
+## Visualization of Crime in Boston  
+Visualization of police responses to 911 calls in Boston during the month of July 2017.  Incidents plotted using d3.js and the google Maps API.  
+
+#### Tools Used: JavaScript, HTML, d3.js, Google Maps API  
+
+[Visualization](https://xzachx.github.io/crime.html) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%206391%20-%20Visualization%20of%20Information%20and%20Creative%20Coding%20II/Project%2010/crimeGoogleMaps)  
 
 ---  
 
