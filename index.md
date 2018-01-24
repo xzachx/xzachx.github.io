@@ -15,7 +15,16 @@ Analysis of flight delay data to predict the likelihood of flights being delayed
 
 [Notebook](https://github.com/xzachx/Flight-Delays/blob/master/flight_delays.ipynb) \| [Github Repository](https://github.com/xzachx/Flight-Delays)  
 
----
+---  
+
+## Analysis of Flight Delays 2: Big Data Boogaloo  
+Performed data exploration and linear regression on this greatly expanded flight delay data.  The data was much too large to fit into memory, so these analyses were performed using the out of core split-apply-combine functionality of Turi's GraphLab library.  
+
+#### Tools Used: Python, Linear Regression, GraphLab  
+
+[Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%2014%20Case%20Study/ZBrown_Unit14CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%2014%20Case%20Study)
+
+---  
 
 ## Calculating Customer Lifetime Value  
 Predicted top customers in terms of both expected total purchases and expected total purchase amounts given historical transactional data. Projections were calculated using frequency and recency of customer transactions.  
