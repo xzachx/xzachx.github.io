@@ -20,7 +20,7 @@ Analysis of flight delay data to predict the likelihood of flights being delayed
 ## Analysis of Flight Delays 2: Big Data Boogaloo  
 Performed data exploration and linear regression on this greatly expanded flight delay data.  The data was much too large to fit into memory, so these analyses were performed using the out of core split-apply-combine functionality of Turi's GraphLab library.  
 
-#### Tools Used: Python, Linear Regression, GraphLab  
+#### Tools Used: Python, GraphLab, Linear Regression  
 
 [Notebook](https://github.com/xzachx/SMU/blob/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%2014%20Case%20Study/ZBrown_Unit14CaseStudy.ipynb) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%207333%20-%20Quantifying%20the%20World/Unit%2014%20Case%20Study)
 
