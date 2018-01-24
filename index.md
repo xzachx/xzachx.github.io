@@ -54,9 +54,9 @@ Attempted to determine optimal times to buy and sell futures contracts for Tesla
 ---  
 
 ## Visualization of Crime in Boston  
-Visualization of police responses to 911 calls in Boston during the month of July 2017.  Incidents plotted using d3.js and the google Maps API.  
+Visualization of police responses to 911 calls in Boston during the month of July 2017.  Incidents plotted using D3.js and the google Maps API.  
 
-#### Tools Used: JavaScript, HTML, d3.js, Google Maps API  
+#### Tools Used: JavaScript, HTML, D3.js, Google Maps API  
 
 [Visualization](https://xzachx.github.io/crime.html) \| [Github Repository](https://github.com/xzachx/SMU/tree/master/MSDS%206391%20-%20Visualization%20of%20Information%20and%20Creative%20Coding%20II/Project%2010/crimeGoogleMaps)  
 
